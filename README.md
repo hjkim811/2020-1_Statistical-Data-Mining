@@ -1,4 +1,4 @@
-# 2020-1_statistical-data-mining
+# statistical-data-mining
 [2020-1] IMEN472 Statistical Data Mining Course Project
 
 <br />
